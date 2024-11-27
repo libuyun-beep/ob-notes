@@ -11,10 +11,14 @@
             "id": "7cf33dc01d7430fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "test"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "test 的反向链接列表"
             }
           },
           {
@@ -166,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b447c04c2defa8f6",
+  "active": "7cf33dc01d7430fe",
   "lastOpenFiles": [
+    "test.md",
     "笔记/SELEX.md",
     "笔记/O-MAP.md",
     "笔记/FISH.md",
