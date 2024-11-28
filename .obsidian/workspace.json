@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocol/CHIP.md",
+                "file": "protocol/library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHIP"
+              "title": "library"
             }
           }
         ],
@@ -187,8 +187,9 @@
   },
   "active": "fd98d3c699579682",
   "lastOpenFiles": [
-    "protocol/library.md",
     "protocol/CHIP.md",
+    "protocol/转化  提质粒  转染.md",
+    "protocol/library.md",
     "conflict-files-obsidian-git.md",
     "未命名.md",
     "test.md",
@@ -207,7 +208,6 @@
     "9c89d980f1eb4dd9610448a225789c5f.png",
     "Pasted image 20241120123741.png",
     "9c89d980f1eb4dd9610448a225789c5f 1.png",
-    "protocol/转化  提质粒  转染.md",
     "protocol/提蛋白 western ip.md",
     "protocol",
     "笔记"
