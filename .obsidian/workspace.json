@@ -11,10 +11,14 @@
             "id": "68a1a44226cfd582",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,14 +173,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99f87d4d83e06ef",
+  "active": "68a1a44226cfd582",
   "lastOpenFiles": [
+    "未命名.md",
+    "conflict-files-obsidian-git.md",
+    "新建 文本文档.txt",
+    "9c89d980f1eb4dd9610448a225789c5f.png",
+    "笔记/SELEX.md",
+    "笔记/PUF.md",
+    "论文/ecDNA/Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA hubs in cancer.md",
+    "论文/ecDNA",
+    "论文",
+    "笔记/ecTag.md",
+    "笔记/ecDNA.md",
+    "笔记/Casilio.md",
+    "笔记/CRISPR-Cas9.md",
+    "nihms-1757170.pdf",
     "笔记/APEX2.md",
     "笔记/FISH.md",
     "笔记/O-MAP.md",
-    "笔记/SELEX.md",
-    "9c89d980f1eb4dd9610448a225789c5f.png",
-    "未命名.md",
     "笔记/circle-seq.md",
     "A134P.md",
     "OsO4.md",
