@@ -9,11 +9,11 @@ day1
 
 ----------------------------
 8、弃上清，加RIPA重悬（视细胞量，100-500ul）
+（蛋白酶抑制剂PI，2片溶于RIPA 500ul，得到200×的PI溶液，溶于RIPA）
 9、Covaris超声5min，20000g 4℃ 离心10min
 10、取上清至ep管，RIPA稀释
-11、蛋白酶抑制剂PI，2片溶于RIPA 500ul，得到200×的PI溶液，溶于RIPA
-12、lable，3×IP×抗体，1×input
-13、加用RIPA预洗的protG-beads至稀释液（30ul/ml），4℃旋转2h
+12、加用RIPA预洗两次的protG-beads至稀释液（30ul/ml），4℃旋转2h
+13、lable，3×IP×抗体，1×input
 14、800rpm 4℃ 离心2min，稀释至1ml×IP
 16、取100ul作input，分装1ml/管剩余
 17、加抗体至ep管（5ul/管），4℃旋转过夜（封口）
