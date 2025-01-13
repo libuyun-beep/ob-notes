@@ -6,7 +6,7 @@ ABE（10.30 revise）
 
 2mL buffer A+50mM **NEM**【_甲醇溶解_】+PIC
 
-3. **超声**, rotating 4℃，0.5h or overnight → 15000rpm，5min,取部分input后，上清rotating **RT**，4h
+3. **超声**, rotating 4℃，2h or overnight → 15000rpm，5min,取部分input后，上清rotating **RT**，4h
 
 4. 上清平均分成2管
 
